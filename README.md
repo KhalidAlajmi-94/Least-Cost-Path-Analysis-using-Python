@@ -4,5 +4,5 @@
 •	This script identifies the following
 
 1. The length of the proposed pipeline in Meters
-2. 
-3.  The Average Slope along the path
+
+2.  The Average Slope along the path
